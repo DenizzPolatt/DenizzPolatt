@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DenizzPolatt
-- 👀 I’m interested in photography
 - 🌱 I’m currently learning Java
-- 📫 I'm studying at Blkent University
+- 📫 I'm a CS freshman at Bilkent University
 
 <!---
 DenizzPolatt/DenizzPolatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
